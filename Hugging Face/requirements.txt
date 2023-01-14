@@ -1,0 +1,11 @@
+hopsworks
+scikit-learn == 1.0.2
+numpy
+joblib
+python-dotenv
+xgboost == 0.90
+optuna
+datetime
+folium
+streamlit_folium
+streamlit
